@@ -1,4 +1,4 @@
-#Aegis-Grid: 4-Bit Binary Target Tracker
+# Aegis-Grid: 4-Bit Binary Target Tracker
 
 A fully hardware-based 4x4 autonomous target-tracking and fire-control system implemented using standard Transistor-Transistor Logic (TTL) ICs. The system dynamically captures coordinate data from a matrix of light sensors, evaluates it against a predefined guard coordinate, and manages a secure firing sequence—entirely bypassing the need for microcontrollers or software programming.
 
